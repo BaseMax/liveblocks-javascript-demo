@@ -2,6 +2,8 @@
 
 This is a simple demo showcasing how to use Liveblocks to create collaborative real-time experiences in a web application. The project shows how you can display the number of users currently online in a room using the Liveblocks API.
 
+https://liveblocks.io
+
 ## Features
 
 Real-time Collaboration: Displays the number of other users currently connected to the same Liveblocks room.
