@@ -30,7 +30,7 @@ Install the required dependencies using npm:
 npm install
 ```
 
-Create a `liveblocks.config.ts` file with your Liveblocks API key:
+Edit `liveblocks.config.ts` file with your Liveblocks API key:
 
 ```
 export default {
