@@ -4,11 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@liveblocks/client": "^2.7.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.7"
   }
 }

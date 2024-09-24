@@ -1,5 +1,7 @@
+import { createClient } from "@liveblocks/client";
+
 const client = createClient({
-    publicApiKey: "pk_prod_pe0e…TXp7oY",
+  publicApiKey: "pk_prod_hdKHawd0Qw7oc_vJolxUGaMnYNgqITzZWn0g4HwNZJTzuPwqC1SLTfPTfqT6klIK",
 });
 
-const { room, leave } = client.enterRoom("my-room");
+export const { room, leave } = client.enterRoom("my-room");
